@@ -1,4 +1,4 @@
-# yonareport
+# yona_report
 
 * YONA 에 등록된 이슈의 리스트를 메일로 전달받게 만들었습니다.
 
